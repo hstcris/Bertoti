@@ -11,7 +11,8 @@
 
 --------------------------------------------------------------------------------------------------------
 
-1. - Engenharia de Software
+1.
+   Engenharia de Software
    We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. 
 On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. 
 In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. 
@@ -22,7 +23,6 @@ Finally, as software engineers, we are asked to make more complex decisions with
 serem mais preocupados com o tempo que é gasto, a eficiencia e tem muitos decisões que geram um grande risco, 
 que as vezes são baseadas em estimativas de tempo imprecisas. O tempo também é essencial, pois uma boa gestão de tempo permite os engenheiros de software a criar soluções atualizadas e eficientes para problemas reais. Além disso, o conceito de Trade-off é de grande importância para essa área de atuação, porque haverá situações onde são necessárias escolhas onde perde de um lado para ganhar outro, cabe aos profissionais da área de pontuarem as condições mais viáveis e imprencindíveis para o futuro do projeto.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
    Engenharia de Software não é só programar
 
@@ -34,7 +34,7 @@ Software engineering isn’t programming.
 
   Interpretação:
  Com base no texto, podemos dizer que engenharia de software é programação mas que não se resume apenas isso, é tempo, escala e trade-offs. O conceito de Trade-off é de grande importância para essa área de atuação, pois haverá situações onde são necessárias escolhas onde um perde de um lado para ganhar outro, e cabe aos profissionais da área verem quais as condições serão mais viáveis para o futuro projeto.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 2. três exemplos de tradeoffs
    
    1º trade-off - Meu sistema tem muito segurança para o usúario mas isso acaba diminuindo a usabilidade
