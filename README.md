@@ -18,11 +18,11 @@ In a software engineering organization, we need to be more concerned about scale
 Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth. 
 
   Interpretação:
-  Os engenheiros de softwares tem algumas diferenças com os programadores em questão de exisgências de projetos, como: 
-ser mais preocupado com o tempo que é gasto, a eficiencia e tem muitos decisões que geram um grande risco, 
-que as vezes são baseadas em estimativas de tempo imprecisas.
+  Os engenheiros de softwares tem algumas diferenças com os programadores em questão de exigências de projetos, como: 
+serem mais preocupados com o tempo que é gasto, a eficiencia e tem muitos decisões que geram um grande risco, 
+que as vezes são baseadas em estimativas de tempo imprecisas. O tempo também é essencial, pois uma boa gestão de tempo permite os engenheiros de software a criar soluções atualizadas e eficientes para problemas reais. Além disso, o conceito de Trade-off é de grande importância para essa área de atuação, porque haverá situações onde são necessárias escolhas onde perde de um lado para ganhar outro, cabe aos profissionais da área de pontuarem as condições mais viáveis e imprencindíveis para o futuro do projeto.
 
--------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
    Engenharia de Software não é só programar
 
@@ -85,15 +85,19 @@ Microservices Architecture Style (Arquitetura de Microsserviços): Netflix A Net
 
 Ruim: A performance complica as arquiteturas de microsserviços, especialmente em sistemas onde a comunicação entre os serviços é frequente. A latência de rede e o overhead da comunicação entre serviços podem impactar o desempenho global do sistema. Em sistemas com uma arquitetura de microsserviços, a latência introduzida pela comunicação entre serviços, por exemplo, através de APIs HTTP, pode afetar a performance global, exigindo uma cuidadosa consideração do design e otimizações quando necessário.
 
---------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Meu sistema: 
-Os trade-offs, positivos e negativos, para um sistema em uma locadora de jogos com uma arquitetura de microsserviços podem basear-se em:
+MEU SISTEMA:
+Os trade-offs, positivos e negativos, para um sistema em uma locadora de jogos com uma arquitetura em camadas podem basear-se em:
 
-Escalabilidade (positivo): É simplificada, pois cada microsserviço pode ser escalado independentemente, permitindo lidar com cargas específicas de maneira mais eficiente. Isso é particularmente vantajoso em um sistema de locadora de jogos, onde a demanda por diferentes funcionalidades (como catalogação de jogos, registro de locações, etc.) pode variar. Porém, a comunicação entre microsserviços, se não otimizada, pode introduzir latência e impactar a performance global do sistema.
+Escalabilidade (positivo): Cada camada pode ser dimensionada independentemente, permitindo lidar com cargas específicas de maneira mais eficiente. Isso é particularmente vantajoso em um sistema de locadora de jogos, onde a demanda por diferentes funcionalidades (como catalogação de jogos, registro de locações, etc.) pode variar. No entanto, é importante monitorar e otimizar a comunicação entre camadas para garantir uma experiência de usuário ágil e responsiva.
 
-Performance (negativo): A escalabilidade e modularidade podem levar a um aumento na performance em alguns casos. No entanto, é importante monitorar e otimizar a comunicação entre microsserviços para garantir uma experiência de usuário ágil e responsiva.
+Desempenho (negativo): A escalabilidade e modularidade podem levar a um aumento no desempenho em alguns casos. No entanto, é importante ter cuidado com a granularidade das camadas, pois camadas muito finas podem introduzir complexidade desnecessária e impactar o desempenho do sistema.
 
-Modularidade (positivo): É vantajoso em arquiteturas de microsserviços para sistemas como uma locadora de jogos. Cada funcionalidade (como catalogação de jogos, registro de locações, gerenciamento de contas de clientes, etc.) é tratada por um microsserviço independente, facilitando a manutenção e evolução isolada de cada componente. Isso permite que a locadora de jogos adapte e expanda seu sistema de acordo com as necessidades de seu negócio, como a adição de novos recursos ou a integração com outros sistemas.
+Modularidade (positivo): Cada camada é responsável por uma funcionalidade específica do sistema, como a camada de apresentação, a camada de negócio e a camada de dados. Isso facilita a manutenção e evolução isolada de cada componente, permitindo que a locadora de jogos adapte e expanda seu sistema de acordo com as necessidades de seu negócio, como a adição de novos recursos ou a integração com outros sistemas. No entanto, é importante manter uma comunicação clara e consistente entre as camadas para garantir a integridade do sistema.
 
 O conceito do sistema é ser uma locadora de jogos onde eu posso cadastrar novos jogos, clientes e adicionar produtos novos.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
