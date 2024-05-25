@@ -11,8 +11,7 @@
 
 --------------------------------------------------------------------------------------------------------
 
-1.
-   Engenharia de Software
+1. Engenharia de Software: 
    We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. 
 On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. 
 In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. 
@@ -31,8 +30,7 @@ Programming is certainly a significant part of software engineering: after all, 
 If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). 
 The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. 
 Software engineering isn’t programming.
-
-  Interpretação:
+Interpretação:
  Com base no texto, podemos dizer que engenharia de software é programação mas que não se resume apenas isso, é tempo, escala e trade-offs. O conceito de Trade-off é de grande importância para essa área de atuação, pois haverá situações onde são necessárias escolhas onde um perde de um lado para ganhar outro, e cabe aos profissionais da área verem quais as condições serão mais viáveis para o futuro projeto.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 2. três exemplos de tradeoffs
