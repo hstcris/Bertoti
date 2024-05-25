@@ -11,7 +11,8 @@
 
 --------------------------------------------------------------------------------------------------------
 
-1. Engenharia de Software: 
+1. Engenharia de Software:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. 
 On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. 
 In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. 
@@ -22,8 +23,9 @@ Finally, as software engineers, we are asked to make more complex decisions with
 serem mais preocupados com o tempo que é gasto, a eficiencia e tem muitos decisões que geram um grande risco, 
 que as vezes são baseadas em estimativas de tempo imprecisas. O tempo também é essencial, pois uma boa gestão de tempo permite os engenheiros de software a criar soluções atualizadas e eficientes para problemas reais. Além disso, o conceito de Trade-off é de grande importância para essa área de atuação, porque haverá situações onde são necessárias escolhas onde perde de um lado para ganhar outro, cabe aos profissionais da área de pontuarem as condições mais viáveis e imprencindíveis para o futuro do projeto.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
   1.1 Engenharia de Software não é só programar: Within Google, we sometimes say, “Software engineering is programming integrated over time.” 
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. 
 If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). 
 The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. 
@@ -31,9 +33,11 @@ Software engineering isn’t programming.
 
   Interpretação:
  Com base no texto, podemos dizer que engenharia de software é programação mas que não se resume apenas isso, é tempo, escala e trade-offs. O conceito de Trade-off é de grande importância para essa área de atuação, pois haverá situações onde são necessárias escolhas onde um perde de um lado para ganhar outro, e cabe aos profissionais da área verem quais as condições serão mais viáveis para o futuro projeto.
+
+ 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 2. três exemplos de tradeoffs
-   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
    1º trade-off - Meu sistema tem muito segurança para o usúario mas isso acaba diminuindo a usabilidade
 
     2º trade-off - Meu sistema processa muitos dados rapidamente, mas eles demoram muito para serem lidos o que acaba atrapalhando
@@ -43,7 +47,7 @@ Software engineering isn’t programming.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3. análise dos requisitos não funcionais e tradeoffs das arquiteturas dos slides 24 à 29
-  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
  1) 
 
 Layered Architecture Style (Arquitetura em Camadas): Java EE (Enterprise Edition) É uma plataforma robusta para o desenvolvimento de aplicações empresariais, oferecendo uma arquitetura em camadas que promove a modularidade e a manutenibilidade do código. Atributos: Bom: A sua simplicidade proporciona uma fácil compreensão da aplicação, facilitando o desenvolvimento, manutenção e depuração. Em uma arquitetura em camadas, a separação clara de responsabilidades entre as camadas contribui para a simplicidade. No caso do Java EE, ao dividir claramente as camadas, torna-se o desenvolvimento e a manutenção mais simples, promovendo uma clara separação de preocupações.
@@ -85,6 +89,7 @@ Ruim: A performance complica as arquiteturas de microsserviços, especialmente e
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 MEU SISTEMA:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Os trade-offs, positivos e negativos, para um sistema em uma locadora de jogos com uma arquitetura em camadas podem basear-se em:
 
 Escalabilidade (positivo): Cada camada pode ser dimensionada independentemente, permitindo lidar com cargas específicas de maneira mais eficiente. Isso é particularmente vantajoso em um sistema de locadora de jogos, onde a demanda por diferentes funcionalidades (como catalogação de jogos, registro de locações, etc.) pode variar. No entanto, é importante monitorar e otimizar a comunicação entre camadas para garantir uma experiência de usuário ágil e responsiva.
@@ -94,7 +99,7 @@ Desempenho (negativo): A escalabilidade e modularidade podem levar a um aumento 
 Modularidade (positivo): Cada camada é responsável por uma funcionalidade específica do sistema, como a camada de apresentação, a camada de negócio e a camada de dados. Isso facilita a manutenção e evolução isolada de cada componente, permitindo que a locadora de jogos adapte e expanda seu sistema de acordo com as necessidades de seu negócio, como a adição de novos recursos ou a integração com outros sistemas. No entanto, é importante manter uma comunicação clara e consistente entre as camadas para garantir a integridade do sistema.
 
 O conceito do sistema é ser uma locadora de jogos onde eu posso cadastrar novos jogos, clientes e adicionar produtos novos.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
