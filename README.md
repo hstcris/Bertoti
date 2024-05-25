@@ -41,8 +41,8 @@ Software engineering isn’t programming.
 
     3º trade-off - Meu sistema tem uma grande facilidade ao ser desenvolvido mas ele acaba não tem um grande desempenho em grande escala
 
-   ---------------------------------------------------------------------------------------------------------------
-   3. análise dos requisitos não funcionais e tradeoffs das arquiteturas dos slides 24 à 29
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3. análise dos requisitos não funcionais e tradeoffs das arquiteturas dos slides 24 à 29
   
  1) 
 
