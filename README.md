@@ -22,15 +22,14 @@ Finally, as software engineers, we are asked to make more complex decisions with
 serem mais preocupados com o tempo que é gasto, a eficiencia e tem muitos decisões que geram um grande risco, 
 que as vezes são baseadas em estimativas de tempo imprecisas. O tempo também é essencial, pois uma boa gestão de tempo permite os engenheiros de software a criar soluções atualizadas e eficientes para problemas reais. Além disso, o conceito de Trade-off é de grande importância para essa área de atuação, porque haverá situações onde são necessárias escolhas onde perde de um lado para ganhar outro, cabe aos profissionais da área de pontuarem as condições mais viáveis e imprencindíveis para o futuro do projeto.
 
-
-   Engenharia de Software não é só programar
-
-   Within Google, we sometimes say, “Software engineering is programming integrated over time.” 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  1.1 Engenharia de Software não é só programar: Within Google, we sometimes say, “Software engineering is programming integrated over time.” 
 Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. 
 If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). 
 The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. 
 Software engineering isn’t programming.
-Interpretação:
+
+  Interpretação:
  Com base no texto, podemos dizer que engenharia de software é programação mas que não se resume apenas isso, é tempo, escala e trade-offs. O conceito de Trade-off é de grande importância para essa área de atuação, pois haverá situações onde são necessárias escolhas onde um perde de um lado para ganhar outro, e cabe aos profissionais da área verem quais as condições serão mais viáveis para o futuro projeto.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 2. três exemplos de tradeoffs
