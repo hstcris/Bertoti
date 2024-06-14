@@ -101,5 +101,7 @@ Modularidade (positivo): Cada camada é responsável por uma funcionalidade espe
 O conceito do sistema é ser uma locadora de jogos onde eu posso cadastrar novos jogos, clientes e adicionar produtos novos.
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<img src="https://lucid.app/lucidchart/bdf0416f-3f54-479b-b485-56d04a94d512/edit?invitationId=inv_9b2776ba-4c0a-4e5c-b186-fef3da202e7b&page=0_0#" alt="Primeiro diagrama">
 
