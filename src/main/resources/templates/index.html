@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cupcakes</title>
+    <script src="https://unpkg.com/htmx.org@1.8.6"></script>
+    <link rel="stylesheet" href="style.css">
+    <script src="APP.js" defer></script>
+</head>
+<body>
+<h1>Cris's Cupcakes</h1>
+
+<div id="cupcake-list" hx-get="http://localhost:8080/cupcakes" hx-trigger="load" hx-swap="innerHTML">
+    <!-- A lista de cupcakes será carregada aqui -->
+</div>
+
+
+<h2>Adicionar Novo Cupcake</h2>
+<form id="add-cupcake-form">
+    <label for="add-id">Id do Cupcake:</label>
+    <input type="text" id="add-id" name="id" placeholder="Id do Cupcake" required>
+    <label for="add-nome">Nome do Cupcake:</label>
+    <input type="text" id="add-nome" name="nome" placeholder="Nome do Cupcake" required>
+    <button type="button" onclick="addCupcake()">Adicionar</button>
+</form>
+
+<h2>Atualizar Cupcake</h2>
+<form id="update-cupcake-form">
+    <label for="update-id">Id do Cupcake:</label>
+    <input type="text" id="update-id" name="id" placeholder="Id do Cupcake" required>
+    <label for="update-nome">Novo nome do Cupcake:</label>
+    <input type="text" id="update-nome" name="nome" placeholder="Novo nome do Cupcake" required>
+    <button type="button" onclick="updateCupcake()">Atualizar</button>
+</form>
+
+<h2>Remover Cupcake</h2>
+<form id="delete-cupcake-form">
+    <label for="delete-id">Id do Cupcake:</label>
+    <input type="text" id="delete-id" name="id" placeholder="Id do Cupcake" required>
+    <button type="button" onclick="deleteCupcake()">Remover</button>
+</form>
+</body>
+</html>
