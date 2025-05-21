@@ -10,9 +10,7 @@ Vinda do universo da confeitaria e do barismo, realizei minha transição de car
 * [GIT](https://github.com/hstcris)
 * [LinkedIn](https://www.linkedin.com/in/cristiane-alvares/)
 
-
-![Evento de tecnologia](C:\Users\nb_63\Bertoti\METODOLOGIA\WhatsApp Image 2025-01-26 at 11.16.44(1).jpeg)
-
+![Evento de tecnologia](METODOLOGIA/WhatsApp Image 2025-01-26 at 11.16.44(1).jpeg)
 
 ## Meus Principais Conhecimentos
 Meus principais conhecimentos estão em SQL e Java. Ao longo dos meus estudos, também aprendi sobre Docker, PL/SQL, Python, gestão de projetos, entre outros temas que vão além da programação, como inglês, espanhol e design. 
