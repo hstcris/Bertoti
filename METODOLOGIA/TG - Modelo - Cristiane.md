@@ -7,8 +7,8 @@ Olá! Me chamo Cristiane, tenho 21 anos e iniciei minha jornada na área de tecn
 Vinda do universo da confeitaria e do barismo, realizei minha transição de carreira em 2024, quando comecei a atuar como estagiária em um projeto de pesquisa e desenvolvimento. Desde então, venho me desenvolvendo profissionalmente e, atualmente, trabalho como analista desenvolvedora, aplicando diariamente meus conhecimentos em PL/SQL e Java.
 
 ## Contatos
-* [GIT](https://www.git.com/hstcris)
-* [LinkedIn](https://www.linkedin.com/cristiane-alvares)
+* [GIT](https://github.com/hstcris)
+* [LinkedIn](https://www.linkedin.com/in/cristiane-alvares/)
 
 ## Meus Principais Conhecimentos
 Meus principais conhecimentos estão em SQL e Java. Ao longo dos meus estudos, também aprendi sobre Docker, PL/SQL, Python, gestão de projetos, entre outros temas que vão além da programação, como inglês, espanhol e design. 
@@ -27,7 +27,7 @@ O sistema foi desenvolvido com o uso de JDBC (Java Database Connectivity) para i
 
 Fui responsável pela criação de telas via JavaFx e Java, além de implementar conexões com o banco de dados MySQL. 
 
-Hard Skills 
+  ### Hard Skills 
 
 Java – Sei fazer com autonomia  
 
@@ -35,7 +35,7 @@ JavaFx - Faço com ajuda
 
 Sql – Sei fazer com autonomia  
 
-Soft Skills 
+  ### Soft Skills 
 
 Trabalho em equipe 
 
@@ -60,13 +60,13 @@ Windows OS
 
 Fui responsável pela implementação do design da plataforma, além de atuar no desenvolvimento do backend em Python. 
 
-Hard Skills 
+  ### Hard Skills 
 
 Python – Sei fazer com autonomia  
 
 Design (Figma) - Sei fazer com autonomia  
 
-Soft Skills 
+  ### Soft Skills 
 
 Trabalho em equipe 
  Durante o desenvolvimento da interface e integração com o backend, colaborei diretamente com colegas de diferentes áreas do projeto. A divisão de tarefas e a troca constante de feedback foram essenciais para garantir a consistência da plataforma. 
