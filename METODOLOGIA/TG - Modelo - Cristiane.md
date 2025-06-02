@@ -32,16 +32,16 @@ Desenvolvemos um sistema para importar e analisar arquivos CSV contendo dados cl
 
 #### 💼 Contribuições Pessoais
 - **Desenvolvimento da Interface Gráfica (JavaFX):**  
-  Criei e estilizei as telas do sistema com JavaFX, focando em usabilidade e clareza visual. Estruturei interfaces modulares que facilitaram testes e manutenções posteriores.
+  Criei e estilizei as telas do sistema com JavaFX, focando em usabilidade e clareza visual.
 
 - **Integração com o Banco de Dados (JDBC + MySQL):**  
-  Implementei toda a lógica de conexão entre Java e MySQL, lidando com inserções, consultas e validações dos dados importados.
+  Implementei uma parte da lógica de conexão entre Java e MySQL, lidando com inserções, consultas e validações dos dados importados.
 
 - **Tratamento de Dados Climáticos:**  
   Projetei rotinas para leitura e validação de dados em arquivos CSV. Apliquei técnicas de limpeza e verificação de dados para garantir consistência no banco.
 
 - **Organização e Gestão do Projeto:**  
-  Mantive o cronograma de entregas atualizado, utilizando checklists e ferramentas de acompanhamento como Trello, contribuindo para o ritmo de desenvolvimento da equipe.
+  Mantive o cronograma de entregas atualizado, utilizando checklists e ferramentas de acompanhamento, contribuindo para o ritmo de desenvolvimento da equipe.
 
 #### 🧠 Hard Skills
 - **Java** – Sei fazer com autonomia  
@@ -74,24 +74,23 @@ Criamos um sistema para auxiliar os professores da instituição **PBLTeX** no g
 #### 🛠 Tecnologias Utilizadas
 - **Python**
 - **Figma (Design da interface)**
-- **Tkinter** *(ou PyQt, conforme aplicável)*
 - **Windows OS**
 
 #### 💼 Contribuições Pessoais
 - **Design da Interface (Figma):**  
-  Modelei toda a aparência da plataforma pensando na experiência do usuário, com atenção à hierarquia visual e à fluidez da navegação.
+  Modelei toda a aparência da plataforma pensando na experiência do usuário.
 
 - **Desenvolvimento Backend (Python):**  
-  Implementei as principais funcionalidades, como cadastro de alunos, filtros e geração de relatórios, utilizando bibliotecas nativas do Python.
+  Implementei algumas funcionalidades, como cadastro de alunos, filtros e geração de relatórios, utilizando bibliotecas nativas do Python.
 
 - **Integração entre Design e Código:**  
-  Atuei na conversão prática do design proposto para código, garantindo aderência à proposta visual e viabilidade funcional.
+  Atuei na conversão prática do design proposto para código, garantindo à proposta visual.
 
 - **Comunicação com Equipe Multidisciplinar:**  
   Trabalhei com membros de diferentes áreas, aprimorando minha capacidade de adaptar vocabulário técnico a diferentes perfis.
 
 #### 🧠 Hard Skills
-- **Python** – Sei fazer com autonomia  
+- **Python** – Sei fazer com ajuda 
 - **Design (Figma)** – Sei fazer com autonomia  
 
 #### 🤝 Soft Skills
