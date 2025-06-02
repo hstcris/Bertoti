@@ -1,35 +1,35 @@
-                      <<interface>>
-+--------------------------------------+
-|              Componente              |
-+--------------------------------------+
-| + exibir(identacao: String): void    |
-+--------------------------------------+
-           ▲                     ▲
-           |                     |
-           |                     |
-+------------------+     +-----------------------------------------------+
-|   Funcionario    |     |               Departamento                    |
-+------------------+     +-----------------------------------------------+
-| - nome: String   |     | - nomeDepartamento: String                    |
-+------------------+     | - componentes: List<Componente>               |
-| + Funcionario()  |     +-----------------------------------------------+
-| + exibir()       |     | + Departamento(String)                        |
-+------------------+     | + adicionarComponente(Componente): void       |
-                         | + removerComponente(Componente): void         |
-                         | + exibir(identacao: String): void             |
-                         +-----------------------------------------------+
-                                 ◇
-                                 |
-                         [Agregação com]
-                            Componente
+```plaintext
+                         <<interface>>
+                      +---------------------+
+                      |     Componente      |
+                      +---------------------+
+                      | + exibir(String)    |
+                      +---------------------+
+                             ▲       ▲
+                             |       |
+        +--------------------+       +---------------------------+
+        |                                               
++---------------------+                    +-----------------------------------------+
+|     Funcionario     |                    |              Departamento               |
++---------------------+                    +-----------------------------------------+
+| - nome: String       |                   | - nomeDepartamento: String              |
++---------------------+                    | - componentes: List<Componente>         |
+| + exibir(String)     |                   +-----------------------------------------+
++---------------------+                    | + adicionarComponente(Componente)       |
+                                           | + removerComponente(Componente)         |
+                                           | + exibir(String)                         |
+                                           +-----------------------------------------+
+                                                     ◇
+                                                     |
+                                          [Agregação com Componente]
 
-+--------------------------------------------------------+
-|                        App                             |
-+--------------------------------------------------------+
-| + main(String[] args): void                            |
-+--------------------------------------------------------+
-| - Cria funcionários                                    |
-| - Cria departamentos                                   |
-| - Adiciona componentes a outros componentes            |
-| - Chama exibir() para exibir a estrutura composta      |
-+--------------------------------------------------------+
++--------------------------------------------------------------+
+|                            App                               |
++--------------------------------------------------------------+
+| + main(String[] args): void                                  |
++--------------------------------------------------------------+
+| - Cria funcionários                                          |
+| - Cria departamentos                                         |
+| - Adiciona componentes a outros componentes                  |
+| - Chama exibir() para mostrar a estrutura composta           |
++--------------------------------------------------------------+
