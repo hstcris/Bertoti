@@ -17,67 +17,99 @@ Meus principais conhecimentos estão em SQL e Java. Ao longo dos meus estudos, t
 
 ## Meus Projetos
 
-### Em 2024-1
+### Projeto – 2024.1  
+**Sistema de Leitura e Análise de Dados Climáticos (Java + SQL)**
 
-Desenvolvido em Java e SQL, este projeto tem como objetivo criar um sistema capaz de ler e interpretar arquivos CSV contendo dados climáticos de diversas cidades e regiões do estado de São Paulo, utilizando a linguagem Java e um banco de dados SQL. 
+#### 📌 Descrição
+Desenvolvemos um sistema para importar e analisar arquivos CSV contendo dados climáticos de diferentes cidades do estado de São Paulo. O sistema foi desenvolvido em **Java**, com integração a um banco de dados **MySQL**, com o objetivo de armazenar, filtrar e visualizar informações de forma eficiente e organizada.
 
-  ### Tecnologias Utilizadas 
+#### 🛠 Tecnologias Utilizadas
+- **Java**
+- **JDBC (Java Database Connectivity)**
+- **MySQL**
+- **JavaFX (Interface gráfica)**
+- **CSV (Leitura e manipulação de arquivos)**
 
-O sistema foi desenvolvido com o uso de JDBC (Java Database Connectivity) para integrar a aplicação Java ao banco de dados SQL, e o MySQL como sistema gerenciador de banco de dados (SGBD) para armazenar e consultar os dados climáticos de forma eficiente. Também utilizamos o frontend do Java, o JavaFx. 
+#### 💼 Contribuições Pessoais
+- **Desenvolvimento da Interface Gráfica (JavaFX):**  
+  Criei e estilizei as telas do sistema com JavaFX, focando em usabilidade e clareza visual. Estruturei interfaces modulares que facilitaram testes e manutenções posteriores.
 
-  ### Contribuições Pessoais 
+- **Integração com o Banco de Dados (JDBC + MySQL):**  
+  Implementei toda a lógica de conexão entre Java e MySQL, lidando com inserções, consultas e validações dos dados importados.
 
-Fui responsável pela criação de telas via JavaFx e Java, além de implementar conexões com o banco de dados MySQL. 
+- **Tratamento de Dados Climáticos:**  
+  Projetei rotinas para leitura e validação de dados em arquivos CSV. Apliquei técnicas de limpeza e verificação de dados para garantir consistência no banco.
 
-  ### Hard Skills 
+- **Organização e Gestão do Projeto:**  
+  Mantive o cronograma de entregas atualizado, utilizando checklists e ferramentas de acompanhamento como Trello, contribuindo para o ritmo de desenvolvimento da equipe.
 
-Java – Sei fazer com autonomia  
+#### 🧠 Hard Skills
+- **Java** – Sei fazer com autonomia  
+- **JavaFX** – Faço com ajuda  
+- **SQL** – Sei fazer com autonomia  
 
-JavaFx - Faço com ajuda 
+#### 🤝 Soft Skills
+- **Trabalho em equipe:** Colaborei com colegas de backend e frontend, promovendo alinhamento entre áreas.  
+- **Organização:** Gerenciei cronogramas e entregas parciais com apoio de ferramentas digitais.  
+- **Resolução de problemas:** Atuei na identificação de falhas de integração entre a interface e o banco, contribuindo com ajustes no backend.
 
-Sql – Sei fazer com autonomia  
+#### 📚 Aprendizados
+- **Modelagem e Importação de Dados:**  
+  Aprendi a estruturar dados climáticos para análise em SQL, o que exigiu clareza nos relacionamentos e controle de integridade.
 
-  ### Soft Skills 
+- **Interface Gráfica (JavaFX):**  
+  Desenvolvi noções práticas de UX e boas práticas visuais, compreendendo a importância da experiência do usuário.
 
-Trabalho em equipe 
+- **Colaboração Técnica:**  
+  Refinei minha comunicação ao propor soluções técnicas com documentação e evidências (prints, logs, testes).
 
-Organização 
- Mantive o controle do cronograma de entregas e das etapas do desenvolvimento por meio de checklists e ferramentas de acompanhamento, o que foi crucial para cumprir os prazos definidos pela instituição. 
+---
 
-Resolução de problemas 
- Enfrentamos dificuldades na integração entre o banco de dados e a interface gráfica. Contribuí ativamente na identificação das causas e na proposta de soluções, ajustando a lógica do backend para garantir o bom funcionamento do sistema. 
+### Projeto – 2023.2  
+**Sistema de Gestão de Turmas – PBLTeX (Python + Design)**
 
-### Em 2023-2
-Desenvolvido em Python para Windows, criamos um sistema para a instituição de ensino PBLTeX com o objetivo de auxiliar os professores na gestão de turmas.  
+#### 📌 Descrição
+Criamos um sistema para auxiliar os professores da instituição **PBLTeX** no gerenciamento de turmas. A aplicação foi desenvolvida com **Python**, com foco no ambiente **Windows**, e teve seu design visual planejado no **Figma**.
 
-  ### Tecnologias Utilizadas 
+#### 🛠 Tecnologias Utilizadas
+- **Python**
+- **Figma (Design da interface)**
+- **Tkinter** *(ou PyQt, conforme aplicável)*
+- **Windows OS**
 
-Python 
- Linguagem principal do projeto; utilizada para desenvolver toda a lógica de backend e integração com o sistema operacional Windows. 
+#### 💼 Contribuições Pessoais
+- **Design da Interface (Figma):**  
+  Modelei toda a aparência da plataforma pensando na experiência do usuário, com atenção à hierarquia visual e à fluidez da navegação.
 
-Windows OS 
- Sistema operacional alvo do projeto; o software foi desenvolvido com foco em compatibilidade e desempenho nesse ambiente. 
+- **Desenvolvimento Backend (Python):**  
+  Implementei as principais funcionalidades, como cadastro de alunos, filtros e geração de relatórios, utilizando bibliotecas nativas do Python.
 
-  ### Contribuições Pessoais 
+- **Integração entre Design e Código:**  
+  Atuei na conversão prática do design proposto para código, garantindo aderência à proposta visual e viabilidade funcional.
 
-Fui responsável pela implementação do design da plataforma, além de atuar no desenvolvimento do backend em Python. 
+- **Comunicação com Equipe Multidisciplinar:**  
+  Trabalhei com membros de diferentes áreas, aprimorando minha capacidade de adaptar vocabulário técnico a diferentes perfis.
 
-  ### Hard Skills 
+#### 🧠 Hard Skills
+- **Python** – Sei fazer com autonomia  
+- **Design (Figma)** – Sei fazer com autonomia  
 
-Python – Sei fazer com autonomia  
+#### 🤝 Soft Skills
+- **Trabalho em equipe:** Colaborei em tempo real com colegas de design e desenvolvimento, garantindo consistência entre frontend e backend.  
+- **Organização:** Gerenciei entregas parciais com uso de cronogramas e marcos definidos.  
+- **Resolução de problemas:** Ajudei a corrigir falhas entre interface e lógica do backend, aplicando soluções com base em testes e validações.
 
-Design (Figma) - Sei fazer com autonomia  
+#### 📚 Aprendizados
+- **Alinhamento entre Design e Desenvolvimento:**  
+  Compreendi como traduzir interfaces visuais em funcionalidades práticas, respeitando limitações técnicas.
 
-  ### Soft Skills 
+- **Lógica e Modularização com Python:**  
+  Aprimorei o uso de funções reutilizáveis e separação de responsabilidades, facilitando manutenção e entendimento do código.
 
-Trabalho em equipe 
- Durante o desenvolvimento da interface e integração com o backend, colaborei diretamente com colegas de diferentes áreas do projeto. A divisão de tarefas e a troca constante de feedback foram essenciais para garantir a consistência da plataforma. 
+- **Empatia com o Usuário Final:**  
+  Desenvolver um sistema voltado para professores me incentivou a pensar com a mentalidade do usuário, priorizando simplicidade e clareza.
 
-Organização 
- Mantive o controle do cronograma de entregas e das etapas do desenvolvimento por meio de checklists e ferramentas de acompanhamento, o que foi crucial para cumprir os prazos definidos pela instituição. 
-
-Resolução de problemas 
- Enfrentamos dificuldades na integração entre o banco de dados e a interface gráfica. Contribuí ativamente na identificação das causas e na proposta de soluções, ajustando a lógica do backend para garantir o bom funcionamento do sistema. 
+---
 
 
 
