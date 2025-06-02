@@ -16,6 +16,57 @@ Vinda do universo da confeitaria e do barismo, realizei minha transição de car
 Meus principais conhecimentos estão em SQL e Java. Ao longo dos meus estudos, também aprendi sobre Docker, PL/SQL, Python, gestão de projetos, entre outros temas que vão além da programação, como inglês, espanhol e design. 
 
 ## Meus Projetos
+### Projeto – 2025.1  
+**Sistema Web para Manipulação e Gerenciamento de Dados Espaciais no Setor Agrícola**
+
+#### 📌 Descrição
+Este projeto consiste em um sistema web voltado para a manipulação e gerenciamento de dados espaciais aplicados ao setor agrícola. A plataforma permite a **visualização, edição e análise de geometrias** diretamente em mapas interativos, com o objetivo de aumentar a precisão dos modelos de **inteligência artificial em sensoriamento remoto**.
+
+Desenvolvemos um sistema completo para **cadastro, análise e visualização de áreas agrícolas**, com dashboards interativos e suporte a múltiplos tipos de usuários, cada um com permissões específicas. O sistema possibilita o **upload de arquivos `.geojson`** para cadastro de geometrias. Futuramente, será expandido com recursos de **IA e machine learning** para recomendações automatizadas e análises preditivas.
+
+#### 🛠 Tecnologias Utilizadas
+- **Java**
+- **Spring Boot**
+- **Vue.js**
+- **Oracle Database**
+- **Figma**
+
+#### 💼 Contribuições Pessoais
+- **Estrutura de Histórico de Edição de Talhões:**  
+  Desenvolvi uma estrutura para registrar alterações realizadas nas geometrias dos talhões. Isso permite rastrear mudanças no tempo e garante mais segurança e controle sobre os dados manipulados.
+
+- **Criação de CRUDs Básicos:**  
+  Implementei operações de **Create, Read, Update e Delete** para entidades essenciais do sistema, como áreas e usuários. Isso proporcionou uma base sólida para o funcionamento da aplicação.
+
+- **Protótipo Inicial no Figma:**  
+  Elaborei o **protótipo visual inicial da plataforma** no Figma, definindo a estrutura das páginas, fluxos de navegação e elementos principais da interface.
+
+- **Modelagem de Relacionamentos entre Entidades:**  
+  Participei da **definição do modelo relacional**, mapeando os principais relacionamentos entre entidades como talhões, usuários e permissões, otimizando a estrutura do banco de dados Oracle.
+
+#### 🧠 Hard Skills
+- **Java** – Sei fazer com autonomia  
+- **PL/SQL** – Sei fazer com autonomia  
+- **Figma** – Sei fazer com autonomia  
+
+#### 🤝 Soft Skills
+- **Trabalho em equipe:**  
+  Colaborei com profissionais de backend, frontend e design para garantir uma integração fluida entre as diferentes camadas do sistema.
+
+- **Organização:**  
+  Utilizei ferramentas de acompanhamento e documentação para manter o controle das entregas e alinhar prazos com o restante da equipe.
+
+#### 📚 Aprendizados
+- **Manipulação de Dados Espaciais e Geometrias:**  
+  Aprendi a lidar com arquivos `.geojson` e a manipular geometrias em mapas interativos, o que expandiu minha visão sobre aplicações geográficas em sistemas web.
+
+- **Integração entre Backend e Frontend:**  
+  A necessidade de interligar o backend Java/Spring Boot com o frontend Vue.js me ensinou a projetar APIs eficientes e seguras para transferência de dados espaciais.
+
+- **Design Centrado no Usuário:**  
+  Ao criar o protótipo no Figma, compreendi a importância de alinhar a experiência do usuário (UX) aos objetivos funcionais do sistema, pensando na usabilidade de cada tela.
+
+---
 
 ### Projeto – 2024.1  
 **Sistema de Leitura e Análise de Dados Climáticos (Java + SQL)**
