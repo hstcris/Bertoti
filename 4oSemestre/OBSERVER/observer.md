@@ -27,14 +27,4 @@
 | + novaLeitura(String): void                      |
 +--------------------------------------------------+
 
-+----------------------------------------------+
-|                    App                       |
-+----------------------------------------------+
-| + main(String[] args): void                  |
-+----------------------------------------------+
-| - Cria uma Estacao                           |
-| - Cria dois Dispositivos                     |
-| - Adiciona observadores à estação            |
-| - Envia duas leituras climáticas             |
-| - Remove observadores                        |
-+----------------------------------------------+
+
